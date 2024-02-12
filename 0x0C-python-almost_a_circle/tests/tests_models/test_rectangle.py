@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # test_rectangle.py
-# Christopher Dominic <chriseze0@gmail.com>
+# christopher dominic <chriseze0@.com>
 """Defines unittests for models/rectangle.py.
 
 Unittest classes:

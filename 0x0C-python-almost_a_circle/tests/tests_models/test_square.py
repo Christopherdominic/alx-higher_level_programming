@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # test_square.py
-# christopher dominic <chriseze0@gmail.com>
+# christopher dominic <chriseze0@.com>
 """Defines unittests for models/square.py.
 
 Unittest classes:
