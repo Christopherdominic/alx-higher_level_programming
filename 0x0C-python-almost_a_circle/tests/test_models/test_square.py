@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # test_square.py
-# christopher dominic <chriseze0@.com>
+# Brennan D Baraban <375@holbertonschool.com>
 """Defines unittests for models/square.py.
 
 Unittest classes:
@@ -658,4 +658,3 @@ class TestSquare_to_dictionary(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
