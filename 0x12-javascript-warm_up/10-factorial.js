@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 function factorial (n) {
   if (n < 0) {
@@ -11,4 +10,3 @@ function factorial (n) {
 }
 
 console.log(factorial(Number(process.argv[2])));
-
