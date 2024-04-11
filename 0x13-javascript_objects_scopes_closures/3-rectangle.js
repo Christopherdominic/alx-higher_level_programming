@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 class Rectangle {
   constructor (w, h) {
@@ -20,4 +19,3 @@ class Rectangle {
 }
 
 module.exports = Rectangle;
-
