@@ -10,4 +10,3 @@ request.get(url, function (error, response) {
     console.log('code:' + ' ' + response.statusCode);
   }
 });
-
